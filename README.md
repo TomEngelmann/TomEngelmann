@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomEngelmann
 - 👀 I’m interested in coding with JS & Java
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 
 <!---
 TomEngelmann/TomEngelmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
