@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TomEngelmann
-- 👀 I’m interested in coding with JS & Java
-- 🌱 I’m currently learning React & Node
+- 👀 I like coding with Typescript a lot. In my private repositories you can find some projects that I enjoyed creating.
 
 <!---
 TomEngelmann/TomEngelmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
