@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomEngelmann
-- 👀 I like coding with Typescript a lot. In my private repositories you can find some projects that I enjoyed creating.
+- 👀 I focus on react, react-native and golang.
 
 <!---
 TomEngelmann/TomEngelmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
